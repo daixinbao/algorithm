@@ -10,7 +10,7 @@ import java.util.Set;
  */
 public class Day01 {
     public static void main(String[] args) {
-        Integer I=10000;
+        Integer I=10000; //saa
         Integer i=10000;
         System.out.println(I.equals(i));
     }
