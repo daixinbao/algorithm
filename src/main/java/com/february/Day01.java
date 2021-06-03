@@ -2,6 +2,7 @@ package com.february;
 
 import com.ListNode;
 
+import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -13,6 +14,7 @@ public class Day01 {
         Integer I=10000; //s
         Integer i=10000;
         System.out.println(I.equals(i));
+        System.out.println(Arrays.toString("100_".split("_")));
     }
 
     /**
